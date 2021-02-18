@@ -1,9 +1,6 @@
 #include <iostream>
 using namespace std;
 
-//Matheus Patriarca Santana
-//RA: 2171481
-
 class Colecao 
 {  
     protected:
